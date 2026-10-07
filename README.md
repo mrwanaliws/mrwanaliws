@@ -31,3 +31,25 @@ Turning complex data & models into smart AI systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-ali-02740735a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marwanalimohamed-delta-ten-87.vercel.app/)
+
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h4>🤖 PDF Question Answering System</h4>
+      <img src="رابط_صورة_مشروع_الـRAG" width="100%" alt="RAG Model" />
+      <br/><br/>
+      <a href="https://github.com/mrwanaliws/pdf-extracting-and-question-answering-model"><b> View Repository</b></a>
+    </td>
+    <td width="50%" align="center">
+      <h4>🌐 Personal Portfolio Website</h4>
+      <img src="ضع_رابط_صورة_البورتفوليو_هنا" width="100%" alt="Portfolio Preview" />
+      <br/><br/>
+      <a href="https://marwanalimohamed-delta-ten-87.vercel.app/"><b> Live Demo</b></a> | 
+      <a href="https://github.com/mrwanaliws/portfolio1"><b> Code</b></a>
+    </td>
+  </tr>
+</table>
+
