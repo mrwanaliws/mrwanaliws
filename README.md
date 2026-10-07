@@ -8,7 +8,8 @@ Turning complex data & models into smart AI systems
 ### 🚀 PDF Question Answering Model
 هذا النموذج يقوم بتحليل ملفات PDF والإجابة عن الأسئلة بدقة.
 
-<img src="ضع_رابط_صورة_المشروع_هنا" width="100%" alt="PDF Model Demo" />
+<img src="<img width="1920" height="1080" alt="Capturebjhgsrhnj" src="https://github.com/user-attachments/assets/9a86646d-3a8b-48b0-91e3-25c369c549a6" />
+" width="100%" alt="PDF Model Demo" />
 
 ---
 
