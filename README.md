@@ -37,21 +37,20 @@ Turning complex data & models into smart AI systems
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <h4>🤖 PDF Question Answering System</h4>
-      <img src="<img width="1920" height="1080" alt="Capturebjhgsrhnj" src="https://github.com/user-attachments/assets/6f2bf568-6653-402b-80a2-8263dbdd3ef3" />
-" width="100%" alt="RAG Model" />
+      <img src="https://github.com/user-attachments/assets/3538e352-9bcf-4ba6-b45d-b2c5ae92f41f" width="100%" alt="RAG Model" />
       <br/><br/>
-      <a href="https://github.com/mrwanaliws/pdf-extracting-and-question-answering-model"><b> View Repository</b></a>
+      <a href="https://github.com/mrwanaliws/pdf-extracting-and-question-answering-model"><b>View Repository</b></a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <h4>🌐 Personal Portfolio Website</h4>
-      <img src="<img width="1896" height="975" alt="Captur55555e" src="https://github.com/user-attachments/assets/bde62da4-7e33-4cbd-a1a6-a2def75495d5" />
-" width="100%" alt="Portfolio Preview" />
+      <img src="https://github.com/user-attachments/assets/ec8b1bac-4931-40d2-8e54-85ba418846ec" width="100%" alt="Portfolio Preview" />
       <br/><br/>
-      <a href="https://marwanalimohamed-delta-ten-87.vercel.app/"><b> Live Demo</b></a> | 
-      <a href="https://github.com/mrwanaliws/portfolio1"><b> Code</b></a>
+      <a href="https://marwanalimohamed-delta-ten-87.vercel.app/"><b>Live Demo</b></a> | 
+      <a href="https://github.com/mrwanaliws/portfolio1"><b>Code</b></a>
     </td>
   </tr>
 </table>
+
 
